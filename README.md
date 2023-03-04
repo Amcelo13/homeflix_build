@@ -62,6 +62,18 @@ OTT can :
 
 <br />
 
+# Fully Mobile Responsive
+
+<table>
+  <tr>
+    <td><img src="https://i.pinimg.com/originals/9c/ad/3f/9cad3fbed8d309b94d1734b4a257cf29.png" height="500px"  alt=""/></td>
+    <td><img src="https://i.pinimg.com/originals/10/ae/b7/10aeb74d3d971a26b4bbc0b71e7a71bb.png" height="500px"  alt=""/></td>
+    <td><img src="https://i.pinimg.com/originals/7b/73/be/7b73be609ac58dfe72f93f08559b114d.png" height="500px" alt=""/></td>
+  </tr>
+</table>
+
+<br />
+
 
 # TechStack
 <table>
