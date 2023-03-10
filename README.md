@@ -38,7 +38,6 @@ OTT can :
 
 
 # Screenshots
-## Authentication
 <table>
   <tr>
     <td align="center">
